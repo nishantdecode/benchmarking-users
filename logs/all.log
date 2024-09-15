@@ -1148,3 +1148,121 @@
 2024-09-15 03:10:44:1044 [32minfo[39m: [32m🛣️  Routes setup completed[39m
 2024-09-15 03:10:44:1044 [32minfo[39m: [32m🚧 Error Handler Applied[39m
 2024-09-15 03:10:44:1044 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53321[39m
+2024-09-15 09:33:03:333 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 09:33:03:333 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 09:33:03:333 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 09:33:03:333 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53321[39m
+2024-09-15 09:33:25:3325 [32minfo[39m: [32mRequest received: POST /register[39m
+2024-09-15 09:33:25:3325 [31merror[39m: [31mUser already registered![39m
+2024-09-15 09:33:46:3346 [32minfo[39m: [32mRequest received: POST /register[39m
+2024-09-15 09:33:47:3347 [32minfo[39m: [32mUser Created: [object Object] GeneratedPassword: superadmin[39m
+2024-09-15 09:34:21:3421 [32minfo[39m: [32mRequest received: POST /login[39m
+2024-09-15 09:34:21:3421 [31merror[39m: [31m"expiresIn" should be a number of seconds or string representing a timespan[39m
+2024-09-15 09:36:15:3615 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 09:36:15:3615 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 09:36:15:3615 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 09:36:15:3615 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53321[39m
+2024-09-15 09:36:17:3617 [32minfo[39m: [32mRequest received: POST /login[39m
+2024-09-15 09:36:18:3618 [32minfo[39m: [32mUser logged In: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjp7ImZpcnN0IjoiU3VwZXJBZG1pbiIsImxhc3QiOiIxIn0sImVtYWlsIjoic3VwZXJhZG1pbjFAZ21haWwuY29tIiwicm9sZSI6eyJuYW1lIjoiZGVzYyIsInR5cGUiOiJTdXBlckFkbWluIn0sImlhdCI6MTcyNjM3MzE3NywiZXhwIjoxNzI2NDU5NTc3fQ.7Sdp9GXC-pITdgnSEi0AjzbBuycnMZsuvbASeu2rIj0[39m
+2024-09-15 10:05:03:53 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 10:05:03:53 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 10:05:03:53 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 10:05:03:53 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53321[39m
+2024-09-15 10:07:13:713 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 10:07:13:713 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 10:07:13:713 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 10:07:13:713 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53321[39m
+2024-09-15 10:11:30:1130 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 10:11:30:1130 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 10:11:30:1130 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 10:11:30:1130 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53321[39m
+2024-09-15 10:16:19:1619 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 10:16:20:1620 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 10:16:20:1620 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 10:16:20:1620 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53321[39m
+2024-09-15 10:27:15:2715 [32minfo[39m: [32mRequest received: POST /login[39m
+2024-09-15 10:27:15:2715 [31merror[39m: [31mInvalid Credentials![39m
+2024-09-15 10:27:34:2734 [32minfo[39m: [32mRequest received: POST /login[39m
+2024-09-15 10:27:34:2734 [31merror[39m: [31mInvalid Credentials![39m
+2024-09-15 10:28:06:286 [32minfo[39m: [32mRequest received: POST /login[39m
+2024-09-15 10:28:06:286 [31merror[39m: [31mInvalid Credentials![39m
+2024-09-15 10:28:11:2811 [32minfo[39m: [32mRequest received: POST /login[39m
+2024-09-15 10:28:11:2811 [31merror[39m: [31mInvalid Credentials![39m
+2024-09-15 10:28:18:2818 [32minfo[39m: [32mRequest received: POST /login[39m
+2024-09-15 10:28:18:2818 [31merror[39m: [31mInvalid Credentials![39m
+2024-09-15 10:28:54:2854 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 10:28:54:2854 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 10:28:54:2854 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 10:28:54:2854 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53321[39m
+2024-09-15 10:28:54:2854 [32minfo[39m: [32mRequest received: POST /login[39m
+2024-09-15 10:28:55:2855 [31merror[39m: [31mInvalid Credentials![39m
+2024-09-15 10:29:06:296 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 10:29:06:296 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 10:29:06:296 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 10:29:06:296 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53321[39m
+2024-09-15 10:29:07:297 [32minfo[39m: [32mRequest received: POST /login[39m
+2024-09-15 10:29:07:297 [31merror[39m: [31mInvalid Credentials![39m
+2024-09-15 10:29:24:2924 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 10:29:24:2924 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 10:29:24:2924 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 10:29:24:2924 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53321[39m
+2024-09-15 10:29:24:2924 [32minfo[39m: [32mRequest received: POST /login[39m
+2024-09-15 10:29:24:2924 [31merror[39m: [31mInvalid Credentials![39m
+2024-09-15 10:29:33:2933 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 10:29:33:2933 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 10:29:33:2933 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 10:29:33:2933 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53321[39m
+2024-09-15 10:29:48:2948 [32minfo[39m: [32mRequest received: POST /sendOtp[39m
+2024-09-15 10:29:49:2949 [32minfo[39m: [32mOTP sent to email: 4689[39m
+2024-09-15 10:30:16:3016 [32minfo[39m: [32mRequest received: POST /verifyOtp[39m
+2024-09-15 10:30:16:3016 [32minfo[39m: [32mOTP has been verified: {[39m
+[32m  name: { first: 'Nishant', last: 'Srinet' },[39m
+[32m  role: { name: 'Branch Manager', type: 'SuperAdmin' },[39m
+[32m  _id: new ObjectId("660bb10800fe876881bd9772"),[39m
+[32m  picture: 'images_grseog',[39m
+[32m  password: '$2a$10$ZuGOZSNaw8twdWr8HK.HkeFYyWGvzyE9uqAUTWXDKWeebI1kRinn6',[39m
+[32m  email: 'nishantsrinet1@gmail.com',[39m
+[32m  createdAt: 2024-04-02T07:17:28.669Z,[39m
+[32m  updatedAt: 2024-09-15T05:00:16.547Z,[39m
+[32m  __v: 0,[39m
+[32m  refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyIwIjoibiIsIjEiOiJpIiwiMiI6InMiLCIzIjoiaCIsIjQiOiJhIiwiNSI6Im4iLCI2IjoidCIsIjciOiJzIiwiOCI6InIiLCI5IjoiaSIsIjEwIjoibiIsIjExIjoiZSIsIjEyIjoidCIsIjEzIjoiMSIsIjE0IjoiQCIsIjE1IjoiZyIsIjE2IjoibSIsIjE3IjoiYSIsIjE4IjoiaSIsIjE5IjoibCIsIjIwIjoiLiIsIjIxIjoiYyIsIjIyIjoibyIsIjIzIjoibSIsImlhdCI6MTcyMTY0NTM3NiwiZXhwIjoxNzIyNTA5Mzc2fQ.pbt_ibij7GkvjBrPM4_6mcU06bi9DrENo0md4hbkE90',[39m
+[32m  emailVerified: true[39m
+[32m}[39m
+2024-09-15 10:30:24:3024 [32minfo[39m: [32mRequest received: POST /resetPassword[39m
+2024-09-15 10:30:25:3025 [32minfo[39m: [32mPassword has been reset: [object Object][39m
+2024-09-15 10:30:30:3030 [32minfo[39m: [32mRequest received: POST /login[39m
+2024-09-15 10:30:30:3030 [32minfo[39m: [32mUser logged In: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjp7ImZpcnN0IjoiTmlzaGFudCIsImxhc3QiOiJTcmluZXQifSwiZW1haWwiOiJuaXNoYW50c3JpbmV0MUBnbWFpbC5jb20iLCJyb2xlIjp7Im5hbWUiOiJCcmFuY2ggTWFuYWdlciIsInR5cGUiOiJTdXBlckFkbWluIn0sImlhdCI6MTcyNjM3NjQzMCwiZXhwIjoxNzI2NDYyODMwfQ.3AWKK0L-OwRFLO6a8_IXLFWslGpaw-HNCmK2NkoLawM[39m
+2024-09-15 10:30:36:3036 [32minfo[39m: [32mUser authenticated![39m
+2024-09-15 10:30:36:3036 [32minfo[39m: [32mRequest received: POST /verifyToken[39m
+2024-09-15 10:30:36:3036 [32minfo[39m: [32mAccesstoken verified![39m
+2024-09-15 10:30:36:3036 [32minfo[39m: [32mUser authenticated![39m
+2024-09-15 10:30:36:3036 [32minfo[39m: [32mRequest received: POST /verifyToken[39m
+2024-09-15 10:30:36:3036 [32minfo[39m: [32mAccesstoken verified![39m
+2024-09-15 10:31:48:3148 [32minfo[39m: [32mUser authenticated![39m
+2024-09-15 10:31:48:3148 [32minfo[39m: [32mRequest received: POST /verifyToken[39m
+2024-09-15 10:31:48:3148 [32minfo[39m: [32mAccesstoken verified![39m
+2024-09-15 10:31:48:3148 [32minfo[39m: [32mUser authenticated![39m
+2024-09-15 10:31:48:3148 [32minfo[39m: [32mRequest received: POST /verifyToken[39m
+2024-09-15 10:31:48:3148 [32minfo[39m: [32mAccesstoken verified![39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mUser authenticated![39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mRequest received: POST /verifyToken[39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mAccesstoken verified![39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mUser authenticated![39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mRequest received: POST /verifyToken[39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mAccesstoken verified![39m
+2024-09-15 10:32:52:3252 [32minfo[39m: [32mUser authenticated![39m
+2024-09-15 10:32:52:3252 [32minfo[39m: [32mRequest received: GET /[39m
+2024-09-15 10:32:53:3253 [32minfo[39m: [32mUser authenticated![39m
+2024-09-15 10:32:53:3253 [32minfo[39m: [32mRequest received: GET /[39m
+2024-09-15 10:33:30:3330 [32minfo[39m: [32mRequest received: POST /login[39m
+2024-09-15 10:33:30:3330 [32minfo[39m: [32mUser logged In: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjp7ImZpcnN0IjoiTmlzaGFudCIsImxhc3QiOiJTcmluZXQifSwiZW1haWwiOiJzdXBlcmFkbWluMTJAZ21haWwuY29tIiwicm9sZSI6eyJ0eXBlIjoiU3VwZXJBZG1pbiJ9LCJpYXQiOjE3MjYzNzY2MTAsImV4cCI6MTcyNjQ2MzAxMH0.aJH4BkfvAeOdvONrmusEkcyEGt8ZtKABL8yRIf_usng[39m
+2024-09-15 10:33:30:3330 [32minfo[39m: [32mUser authenticated![39m
+2024-09-15 10:33:30:3330 [32minfo[39m: [32mRequest received: POST /verifyToken[39m
+2024-09-15 10:33:30:3330 [32minfo[39m: [32mAccesstoken verified![39m
+2024-09-15 10:33:30:3330 [32minfo[39m: [32mUser authenticated![39m
+2024-09-15 10:33:30:3330 [32minfo[39m: [32mRequest received: POST /verifyToken[39m
+2024-09-15 10:33:30:3330 [32minfo[39m: [32mAccesstoken verified![39m
+2024-09-15 10:33:37:3337 [32minfo[39m: [32mUser authenticated![39m
+2024-09-15 10:33:37:3337 [32minfo[39m: [32mRequest received: GET /[39m
+2024-09-15 10:33:37:3337 [32minfo[39m: [32mUser authenticated![39m
+2024-09-15 10:33:37:3337 [32minfo[39m: [32mRequest received: GET /[39m
