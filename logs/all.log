@@ -1266,3 +1266,27 @@
 2024-09-15 10:33:37:3337 [32minfo[39m: [32mRequest received: GET /[39m
 2024-09-15 10:33:37:3337 [32minfo[39m: [32mUser authenticated![39m
 2024-09-15 10:33:37:3337 [32minfo[39m: [32mRequest received: GET /[39m
+2024-09-15 10:46:53:4653 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 10:46:53:4653 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 10:46:53:4653 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 10:46:53:4653 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53321[39m
+2024-09-15 11:00:50:050 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 11:00:50:050 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 11:00:50:050 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 11:00:50:050 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53321[39m
+2024-09-15 11:01:42:142 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 11:01:42:142 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 11:01:42:142 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 11:01:42:142 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53321[39m
+2024-09-15 11:01:51:151 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 11:01:51:151 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 11:01:51:151 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 11:01:51:151 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53321[39m
+2024-09-15 11:01:56:156 [32minfo[39m: [32mRequest received: POST /login[39m
+2024-09-15 11:01:56:156 [32minfo[39m: [32mUser logged In: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjp7ImZpcnN0IjoiTmlzaGFudCIsImxhc3QiOiJTcmluZXQifSwiZW1haWwiOiJzdXBlcmFkbWluMTJAZ21haWwuY29tIiwicm9sZSI6eyJ0eXBlIjoiU3VwZXJBZG1pbiJ9LCJpYXQiOjE3MjYzNzgzMTYsImV4cCI6MTcyNjQ2NDcxNn0.f4egNFr8JyKeZHlCBwe8b86FX0JSfsJxHE4gQeNF7Bg[39m
+2024-09-15 11:02:04:24 [32minfo[39m: [32mUser authenticated![39m
+2024-09-15 11:02:04:24 [32minfo[39m: [32mRequest received: POST /verifyToken[39m
+2024-09-15 11:02:04:24 [32minfo[39m: [32mAccesstoken verified![39m
+2024-09-15 11:02:04:24 [32minfo[39m: [32mUser authenticated![39m
+2024-09-15 11:02:04:24 [32minfo[39m: [32mRequest received: POST /verifyToken[39m
+2024-09-15 11:02:04:24 [32minfo[39m: [32mAccesstoken verified![39m
