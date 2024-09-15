@@ -1,0 +1,1075 @@
+{
+  error: ReferenceError: reject is not defined
+      at /Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/models/Users.model.js:70:23,
+  level: 'error',
+  message: 'unhandledRejection: reject is not defined\n' +
+    'ReferenceError: reject is not defined\n' +
+    '    at /Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/models/Users.model.js:70:23',
+  stack: 'ReferenceError: reject is not defined\n' +
+    '    at /Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/models/Users.model.js:70:23',
+  exception: true,
+  date: 'Tue Feb 27 2024 16:05:42 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 18124,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users',
+    execPath: '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+    version: 'v20.10.0',
+    argv: [
+      '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+      '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/server.js'
+    ],
+    memoryUsage: {
+      rss: 94617600,
+      heapTotal: 57278464,
+      heapUsed: 28787656,
+      external: 20589447,
+      arrayBuffers: 18277790
+    }
+  },
+  os: {
+    loadavg: [ 1.7646484375, 1.7216796875, 1.9912109375 ],
+    uptime: 65611
+  },
+  trace: [
+    {
+      column: 23,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/models/Users.model.js',
+      function: null,
+      line: 70,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: 'Feb-27-2024 16:05:42'
+}
+{
+  error: ReferenceError: reject is not defined
+      at /Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/models/Users.model.js:70:23,
+  level: 'error',
+  message: 'unhandledRejection: reject is not defined\n' +
+    'ReferenceError: reject is not defined\n' +
+    '    at /Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/models/Users.model.js:70:23',
+  stack: 'ReferenceError: reject is not defined\n' +
+    '    at /Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/models/Users.model.js:70:23',
+  exception: true,
+  date: 'Tue Feb 27 2024 16:05:43 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 18124,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users',
+    execPath: '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+    version: 'v20.10.0',
+    argv: [
+      '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+      '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/server.js'
+    ],
+    memoryUsage: {
+      rss: 95010816,
+      heapTotal: 57802752,
+      heapUsed: 30006808,
+      external: 20603935,
+      arrayBuffers: 18292238
+    }
+  },
+  os: {
+    loadavg: [ 2.0234375, 1.77587890625, 2.0087890625 ],
+    uptime: 65612
+  },
+  trace: [
+    {
+      column: 23,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/models/Users.model.js',
+      function: null,
+      line: 70,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: 'Feb-27-2024 16:05:43'
+}
+{
+  error: NodeError: write after end
+      at writeAfterEnd (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:264:12)
+      at Writable.write (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:300:21)
+      at File.log (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/lib/winston/transports/file.js:222:34)
+      at ExceptionStream._write (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/lib/winston/exception-stream.js:48:29)
+      at doWrite (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+      at writeOrBuffer (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:381:5)
+      at Writable.write (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:302:11)
+      at DerivedLogger.ondata (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:629:20)
+      at DerivedLogger.emit (node:events:526:35)
+      at addChunk (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:279:12),
+  level: 'error',
+  message: 'uncaughtException: write after end\n' +
+    'Error: write after end\n' +
+    '    at writeAfterEnd (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:264:12)\n' +
+    '    at Writable.write (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:300:21)\n' +
+    '    at File.log (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/lib/winston/transports/file.js:222:34)\n' +
+    '    at ExceptionStream._write (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/lib/winston/exception-stream.js:48:29)\n' +
+    '    at doWrite (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:390:139)\n' +
+    '    at writeOrBuffer (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:381:5)\n' +
+    '    at Writable.write (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:302:11)\n' +
+    '    at DerivedLogger.ondata (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:629:20)\n' +
+    '    at DerivedLogger.emit (node:events:526:35)\n' +
+    '    at addChunk (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:279:12)',
+  stack: 'Error: write after end\n' +
+    '    at writeAfterEnd (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:264:12)\n' +
+    '    at Writable.write (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:300:21)\n' +
+    '    at File.log (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/lib/winston/transports/file.js:222:34)\n' +
+    '    at ExceptionStream._write (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/lib/winston/exception-stream.js:48:29)\n' +
+    '    at doWrite (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:390:139)\n' +
+    '    at writeOrBuffer (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:381:5)\n' +
+    '    at Writable.write (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:302:11)\n' +
+    '    at DerivedLogger.ondata (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:629:20)\n' +
+    '    at DerivedLogger.emit (node:events:526:35)\n' +
+    '    at addChunk (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:279:12)',
+  exception: true,
+  date: 'Tue Feb 27 2024 16:05:43 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 18124,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users',
+    execPath: '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+    version: 'v20.10.0',
+    argv: [
+      '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+      '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/server.js'
+    ],
+    memoryUsage: {
+      rss: 95076352,
+      heapTotal: 57802752,
+      heapUsed: 30058248,
+      external: 20603935,
+      arrayBuffers: 18292238
+    }
+  },
+  os: {
+    loadavg: [ 2.0234375, 1.77587890625, 2.0087890625 ],
+    uptime: 65612
+  },
+  trace: [
+    {
+      column: 12,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js',
+      function: 'writeAfterEnd',
+      line: 264,
+      method: null,
+      native: false
+    },
+    {
+      column: 21,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js',
+      function: 'Writable.write',
+      line: 300,
+      method: 'write',
+      native: false
+    },
+    {
+      column: 34,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/lib/winston/transports/file.js',
+      function: 'File.log',
+      line: 222,
+      method: 'log',
+      native: false
+    },
+    {
+      column: 29,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/lib/winston/exception-stream.js',
+      function: 'ExceptionStream._write',
+      line: 48,
+      method: '_write',
+      native: false
+    },
+    {
+      column: 139,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js',
+      function: 'doWrite',
+      line: 390,
+      method: null,
+      native: false
+    },
+    {
+      column: 5,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js',
+      function: 'writeOrBuffer',
+      line: 381,
+      method: null,
+      native: false
+    },
+    {
+      column: 11,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js',
+      function: 'Writable.write',
+      line: 302,
+      method: 'write',
+      native: false
+    },
+    {
+      column: 20,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js',
+      function: 'DerivedLogger.ondata',
+      line: 629,
+      method: 'ondata',
+      native: false
+    },
+    {
+      column: 35,
+      file: 'node:events',
+      function: 'DerivedLogger.emit',
+      line: 526,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js',
+      function: 'addChunk',
+      line: 279,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: 'Feb-27-2024 16:05:43'
+}
+{
+  error: ReferenceError: PORT is not defined
+      at Server.<anonymous> (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:35:70)
+      at Object.onceWrapper (node:events:628:28)
+      at Server.emit (node:events:526:35)
+      at emitListeningNT (node:net:1906:10)
+      at process.processTicksAndRejections (node:internal/process/task_queues:81:21),
+  level: 'error',
+  message: 'uncaughtException: PORT is not defined\n' +
+    'ReferenceError: PORT is not defined\n' +
+    '    at Server.<anonymous> (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:35:70)\n' +
+    '    at Object.onceWrapper (node:events:628:28)\n' +
+    '    at Server.emit (node:events:526:35)\n' +
+    '    at emitListeningNT (node:net:1906:10)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)',
+  stack: 'ReferenceError: PORT is not defined\n' +
+    '    at Server.<anonymous> (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:35:70)\n' +
+    '    at Object.onceWrapper (node:events:628:28)\n' +
+    '    at Server.emit (node:events:526:35)\n' +
+    '    at emitListeningNT (node:net:1906:10)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)',
+  exception: true,
+  date: 'Thu Mar 07 2024 13:06:08 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 13875,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users',
+    execPath: '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+    version: 'v20.10.0',
+    argv: [
+      '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+      '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/server.js'
+    ],
+    memoryUsage: {
+      rss: 93356032,
+      heapTotal: 58474496,
+      heapUsed: 26226792,
+      external: 20677562,
+      arrayBuffers: 18367170
+    }
+  },
+  os: {
+    loadavg: [ 1.9462890625, 1.69482421875, 1.72607421875 ],
+    uptime: 54064
+  },
+  trace: [
+    {
+      column: 70,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js',
+      function: null,
+      line: 35,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Object.onceWrapper',
+      line: 628,
+      method: 'onceWrapper',
+      native: false
+    },
+    {
+      column: 35,
+      file: 'node:events',
+      function: 'Server.emit',
+      line: 526,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:net',
+      function: 'emitListeningNT',
+      line: 1906,
+      method: null,
+      native: false
+    },
+    {
+      column: 21,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 81,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: 'Mar-07-2024 13:06:08'
+}
+{
+  error: ReferenceError: PORT is not defined
+      at Server.<anonymous> (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:35:70)
+      at Object.onceWrapper (node:events:628:28)
+      at Server.emit (node:events:526:35)
+      at emitListeningNT (node:net:1906:10)
+      at process.processTicksAndRejections (node:internal/process/task_queues:81:21),
+  level: 'error',
+  message: 'uncaughtException: PORT is not defined\n' +
+    'ReferenceError: PORT is not defined\n' +
+    '    at Server.<anonymous> (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:35:70)\n' +
+    '    at Object.onceWrapper (node:events:628:28)\n' +
+    '    at Server.emit (node:events:526:35)\n' +
+    '    at emitListeningNT (node:net:1906:10)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)',
+  stack: 'ReferenceError: PORT is not defined\n' +
+    '    at Server.<anonymous> (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:35:70)\n' +
+    '    at Object.onceWrapper (node:events:628:28)\n' +
+    '    at Server.emit (node:events:526:35)\n' +
+    '    at emitListeningNT (node:net:1906:10)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)',
+  exception: true,
+  date: 'Thu Mar 07 2024 13:06:14 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 13949,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users',
+    execPath: '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+    version: 'v20.10.0',
+    argv: [
+      '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+      '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/server.js'
+    ],
+    memoryUsage: {
+      rss: 92209152,
+      heapTotal: 57163776,
+      heapUsed: 29597432,
+      external: 20678373,
+      arrayBuffers: 18366716
+    }
+  },
+  os: {
+    loadavg: [ 1.80029296875, 1.67138671875, 1.71728515625 ],
+    uptime: 54070
+  },
+  trace: [
+    {
+      column: 70,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js',
+      function: null,
+      line: 35,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'node:events',
+      function: 'Object.onceWrapper',
+      line: 628,
+      method: 'onceWrapper',
+      native: false
+    },
+    {
+      column: 35,
+      file: 'node:events',
+      function: 'Server.emit',
+      line: 526,
+      method: 'emit',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:net',
+      function: 'emitListeningNT',
+      line: 1906,
+      method: null,
+      native: false
+    },
+    {
+      column: 21,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 81,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: 'Mar-07-2024 13:06:14'
+}
+{
+  error: Error: read ECONNRESET
+      at TCP.onStreamRead (node:internal/stream_base_commons:217:20) {
+    errno: -104,
+    code: 'ECONNRESET',
+    syscall: 'read'
+  },
+  level: 'error',
+  message: 'uncaughtException: read ECONNRESET\n' +
+    'Error: read ECONNRESET\n' +
+    '    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)',
+  stack: 'Error: read ECONNRESET\n' +
+    '    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)',
+  exception: true,
+  date: 'Sat Mar 23 2024 14:11:18 GMT+0000 (Coordinated Universal Time)',
+  process: {
+    pid: 17,
+    uid: 0,
+    gid: 0,
+    cwd: '/app',
+    execPath: '/usr/local/bin/node',
+    version: 'v18.19.1',
+    argv: [ '/usr/local/bin/node', '/app/src/server.js' ],
+    memoryUsage: {
+      rss: 79417344,
+      heapTotal: 26849280,
+      heapUsed: 24649152,
+      external: 19653477,
+      arrayBuffers: 18496887
+    }
+  },
+  os: { loadavg: [ 1.51, 1.87, 2.01 ], uptime: 14775.44 },
+  trace: [
+    {
+      column: 20,
+      file: 'node:internal/stream_base_commons',
+      function: 'TCP.onStreamRead',
+      line: 217,
+      method: 'onStreamRead',
+      native: false
+    }
+  ],
+  timestamp: 'Mar-23-2024 14:11:18'
+}
+{
+  error: Error: listen EADDRINUSE: address already in use :::8001
+      at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+      at listenInCluster (node:net:1920:12)
+      at Server.listen (node:net:2008:7)
+      at Function.listen (C:\Users\manda\Desktop\BrihatInfoTech\benchmarkingBackend\BenchmarkingBE\users\node_modules\express\lib\application.js:635:24)
+      at module.exports (C:\Users\manda\Desktop\BrihatInfoTech\benchmarkingBackend\BenchmarkingBE\users\src\startup\index.startup.js:36:7)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+    code: 'EADDRINUSE',
+    errno: -4091,
+    syscall: 'listen',
+    address: '::',
+    port: 8001
+  },
+  level: 'error',
+  message: 'uncaughtException: listen EADDRINUSE: address already in use :::8001\n' +
+    'Error: listen EADDRINUSE: address already in use :::8001\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n' +
+    '    at listenInCluster (node:net:1920:12)\n' +
+    '    at Server.listen (node:net:2008:7)\n' +
+    '    at Function.listen (C:\\Users\\manda\\Desktop\\BrihatInfoTech\\benchmarkingBackend\\BenchmarkingBE\\users\\node_modules\\express\\lib\\application.js:635:24)\n' +
+    '    at module.exports (C:\\Users\\manda\\Desktop\\BrihatInfoTech\\benchmarkingBackend\\BenchmarkingBE\\users\\src\\startup\\index.startup.js:36:7)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  stack: 'Error: listen EADDRINUSE: address already in use :::8001\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n' +
+    '    at listenInCluster (node:net:1920:12)\n' +
+    '    at Server.listen (node:net:2008:7)\n' +
+    '    at Function.listen (C:\\Users\\manda\\Desktop\\BrihatInfoTech\\benchmarkingBackend\\BenchmarkingBE\\users\\node_modules\\express\\lib\\application.js:635:24)\n' +
+    '    at module.exports (C:\\Users\\manda\\Desktop\\BrihatInfoTech\\benchmarkingBackend\\BenchmarkingBE\\users\\src\\startup\\index.startup.js:36:7)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  exception: true,
+  date: 'Wed May 22 2024 10:40:03 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 3208,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\manda\\Desktop\\BrihatInfoTech\\benchmarkingBackend\\BenchmarkingBE\\users',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v21.5.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\manda\\Desktop\\BrihatInfoTech\\benchmarkingBackend\\BenchmarkingBE\\users\\src\\server.js'
+    ],
+    memoryUsage: {
+      rss: 80211968,
+      heapTotal: 59514880,
+      heapUsed: 31404128,
+      external: 20762266,
+      arrayBuffers: 18367023
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 161953.812 },
+  trace: [
+    {
+      column: 16,
+      file: 'node:net',
+      function: 'Server.setupListenHandle [as _listen2]',
+      line: 1872,
+      method: 'setupListenHandle [as _listen2]',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:net',
+      function: 'listenInCluster',
+      line: 1920,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: 'node:net',
+      function: 'Server.listen',
+      line: 2008,
+      method: 'listen',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'C:\\Users\\manda\\Desktop\\BrihatInfoTech\\benchmarkingBackend\\BenchmarkingBE\\users\\node_modules\\express\\lib\\application.js',
+      function: 'Function.listen',
+      line: 635,
+      method: 'listen',
+      native: false
+    },
+    {
+      column: 7,
+      file: 'C:\\Users\\manda\\Desktop\\BrihatInfoTech\\benchmarkingBackend\\BenchmarkingBE\\users\\src\\startup\\index.startup.js',
+      function: 'module.exports',
+      line: 36,
+      method: 'exports',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 95,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: 'May-22-2024 10:40:03'
+}
+{
+  error: Error: listen EADDRINUSE: address already in use :::8001
+      at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+      at listenInCluster (node:net:1920:12)
+      at Server.listen (node:net:2008:7)
+      at Function.listen (C:\Users\manda\Desktop\BrihatInfoTech\benchmarkingBackend\BenchmarkingBE\users\node_modules\express\lib\application.js:635:24)
+      at module.exports (C:\Users\manda\Desktop\BrihatInfoTech\benchmarkingBackend\BenchmarkingBE\users\src\startup\index.startup.js:36:7)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+    code: 'EADDRINUSE',
+    errno: -4091,
+    syscall: 'listen',
+    address: '::',
+    port: 8001
+  },
+  level: 'error',
+  message: 'uncaughtException: listen EADDRINUSE: address already in use :::8001\n' +
+    'Error: listen EADDRINUSE: address already in use :::8001\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n' +
+    '    at listenInCluster (node:net:1920:12)\n' +
+    '    at Server.listen (node:net:2008:7)\n' +
+    '    at Function.listen (C:\\Users\\manda\\Desktop\\BrihatInfoTech\\benchmarkingBackend\\BenchmarkingBE\\users\\node_modules\\express\\lib\\application.js:635:24)\n' +
+    '    at module.exports (C:\\Users\\manda\\Desktop\\BrihatInfoTech\\benchmarkingBackend\\BenchmarkingBE\\users\\src\\startup\\index.startup.js:36:7)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  stack: 'Error: listen EADDRINUSE: address already in use :::8001\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n' +
+    '    at listenInCluster (node:net:1920:12)\n' +
+    '    at Server.listen (node:net:2008:7)\n' +
+    '    at Function.listen (C:\\Users\\manda\\Desktop\\BrihatInfoTech\\benchmarkingBackend\\BenchmarkingBE\\users\\node_modules\\express\\lib\\application.js:635:24)\n' +
+    '    at module.exports (C:\\Users\\manda\\Desktop\\BrihatInfoTech\\benchmarkingBackend\\BenchmarkingBE\\users\\src\\startup\\index.startup.js:36:7)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  exception: true,
+  date: 'Wed May 22 2024 10:41:25 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 9704,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\manda\\Desktop\\BrihatInfoTech\\benchmarkingBackend\\BenchmarkingBE\\users',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v21.5.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\manda\\Desktop\\BrihatInfoTech\\benchmarkingBackend\\BenchmarkingBE\\users\\src\\server.js'
+    ],
+    memoryUsage: {
+      rss: 80932864,
+      heapTotal: 59777024,
+      heapUsed: 31320648,
+      external: 20762039,
+      arrayBuffers: 18366796
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 162035.406 },
+  trace: [
+    {
+      column: 16,
+      file: 'node:net',
+      function: 'Server.setupListenHandle [as _listen2]',
+      line: 1872,
+      method: 'setupListenHandle [as _listen2]',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:net',
+      function: 'listenInCluster',
+      line: 1920,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: 'node:net',
+      function: 'Server.listen',
+      line: 2008,
+      method: 'listen',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'C:\\Users\\manda\\Desktop\\BrihatInfoTech\\benchmarkingBackend\\BenchmarkingBE\\users\\node_modules\\express\\lib\\application.js',
+      function: 'Function.listen',
+      line: 635,
+      method: 'listen',
+      native: false
+    },
+    {
+      column: 7,
+      file: 'C:\\Users\\manda\\Desktop\\BrihatInfoTech\\benchmarkingBackend\\BenchmarkingBE\\users\\src\\startup\\index.startup.js',
+      function: 'module.exports',
+      line: 36,
+      method: 'exports',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 95,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: 'May-22-2024 10:41:25'
+}
+{
+  error: Error: listen EADDRINUSE: address already in use :::3001
+      at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+      at listenInCluster (node:net:1920:12)
+      at Server.listen (node:net:2008:7)
+      at Function.listen (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/express/lib/application.js:635:24)
+      at module.exports (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:36:7)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3001
+  },
+  level: 'error',
+  message: 'uncaughtException: listen EADDRINUSE: address already in use :::3001\n' +
+    'Error: listen EADDRINUSE: address already in use :::3001\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n' +
+    '    at listenInCluster (node:net:1920:12)\n' +
+    '    at Server.listen (node:net:2008:7)\n' +
+    '    at Function.listen (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/express/lib/application.js:635:24)\n' +
+    '    at module.exports (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:36:7)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  stack: 'Error: listen EADDRINUSE: address already in use :::3001\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n' +
+    '    at listenInCluster (node:net:1920:12)\n' +
+    '    at Server.listen (node:net:2008:7)\n' +
+    '    at Function.listen (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/express/lib/application.js:635:24)\n' +
+    '    at module.exports (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:36:7)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  exception: true,
+  date: 'Fri Jul 19 2024 15:16:18 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 51383,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users',
+    execPath: '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+    version: 'v20.10.0',
+    argv: [
+      '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+      '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/server.js'
+    ],
+    memoryUsage: {
+      rss: 88309760,
+      heapTotal: 56639488,
+      heapUsed: 28126776,
+      external: 20639636,
+      arrayBuffers: 18327999
+    }
+  },
+  os: {
+    loadavg: [ 15.08349609375, 6.0947265625, 3.55615234375 ],
+    uptime: 3207926
+  },
+  trace: [
+    {
+      column: 16,
+      file: 'node:net',
+      function: 'Server.setupListenHandle [as _listen2]',
+      line: 1872,
+      method: 'setupListenHandle [as _listen2]',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:net',
+      function: 'listenInCluster',
+      line: 1920,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: 'node:net',
+      function: 'Server.listen',
+      line: 2008,
+      method: 'listen',
+      native: false
+    },
+    {
+      column: 24,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/express/lib/application.js',
+      function: 'Function.listen',
+      line: 635,
+      method: 'listen',
+      native: false
+    },
+    {
+      column: 7,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js',
+      function: 'module.exports',
+      line: 36,
+      method: 'exports',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 95,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: 'Jul-19-2024 15:16:18'
+}
+{
+  error: Error: listen EADDRINUSE: address already in use :::3001
+      at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+      at listenInCluster (node:net:1920:12)
+      at Server.listen (node:net:2008:7)
+      at Function.listen (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/express/lib/application.js:635:24)
+      at module.exports (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:36:7)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3001
+  },
+  level: 'error',
+  message: 'uncaughtException: listen EADDRINUSE: address already in use :::3001\n' +
+    'Error: listen EADDRINUSE: address already in use :::3001\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n' +
+    '    at listenInCluster (node:net:1920:12)\n' +
+    '    at Server.listen (node:net:2008:7)\n' +
+    '    at Function.listen (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/express/lib/application.js:635:24)\n' +
+    '    at module.exports (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:36:7)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  stack: 'Error: listen EADDRINUSE: address already in use :::3001\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n' +
+    '    at listenInCluster (node:net:1920:12)\n' +
+    '    at Server.listen (node:net:2008:7)\n' +
+    '    at Function.listen (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/express/lib/application.js:635:24)\n' +
+    '    at module.exports (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:36:7)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  exception: true,
+  date: 'Fri Jul 19 2024 15:17:11 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 51712,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users',
+    execPath: '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+    version: 'v20.10.0',
+    argv: [
+      '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+      '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/server.js'
+    ],
+    memoryUsage: {
+      rss: 86605824,
+      heapTotal: 38813696,
+      heapUsed: 28685944,
+      external: 20639636,
+      arrayBuffers: 18327999
+    }
+  },
+  os: {
+    loadavg: [ 12.953125, 7.28662109375, 4.17431640625 ],
+    uptime: 3207979
+  },
+  trace: [
+    {
+      column: 16,
+      file: 'node:net',
+      function: 'Server.setupListenHandle [as _listen2]',
+      line: 1872,
+      method: 'setupListenHandle [as _listen2]',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:net',
+      function: 'listenInCluster',
+      line: 1920,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: 'node:net',
+      function: 'Server.listen',
+      line: 2008,
+      method: 'listen',
+      native: false
+    },
+    {
+      column: 24,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/express/lib/application.js',
+      function: 'Function.listen',
+      line: 635,
+      method: 'listen',
+      native: false
+    },
+    {
+      column: 7,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js',
+      function: 'module.exports',
+      line: 36,
+      method: 'exports',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/task_queues',
+      function: 'process.processTicksAndRejections',
+      line: 95,
+      method: 'processTicksAndRejections',
+      native: false
+    }
+  ],
+  timestamp: 'Jul-19-2024 15:17:11'
+}
+{
+  error: Error: listen EADDRINUSE: address already in use :::3001
+      at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+      at listenInCluster (node:net:1920:12)
+      at Server.listen (node:net:2008:7)
+      at Function.listen (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/express/lib/application.js:635:24)
+      at module.exports (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:36:7) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3001
+  },
+  level: 'error',
+  message: 'uncaughtException: listen EADDRINUSE: address already in use :::3001\n' +
+    'Error: listen EADDRINUSE: address already in use :::3001\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n' +
+    '    at listenInCluster (node:net:1920:12)\n' +
+    '    at Server.listen (node:net:2008:7)\n' +
+    '    at Function.listen (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/express/lib/application.js:635:24)\n' +
+    '    at module.exports (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:36:7)',
+  stack: 'Error: listen EADDRINUSE: address already in use :::3001\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n' +
+    '    at listenInCluster (node:net:1920:12)\n' +
+    '    at Server.listen (node:net:2008:7)\n' +
+    '    at Function.listen (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/express/lib/application.js:635:24)\n' +
+    '    at module.exports (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:36:7)',
+  exception: true,
+  date: 'Fri Jul 19 2024 15:17:49 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 51831,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users',
+    execPath: '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+    version: 'v20.10.0',
+    argv: [
+      '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+      '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/server.js'
+    ],
+    memoryUsage: {
+      rss: 86999040,
+      heapTotal: 38813696,
+      heapUsed: 29261064,
+      external: 20640081,
+      arrayBuffers: 18328444
+    }
+  },
+  os: {
+    loadavg: [ 11.38330078125, 7.48046875, 4.380859375 ],
+    uptime: 3208017
+  },
+  trace: [
+    {
+      column: 16,
+      file: 'node:net',
+      function: 'Server.setupListenHandle [as _listen2]',
+      line: 1872,
+      method: 'setupListenHandle [as _listen2]',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:net',
+      function: 'listenInCluster',
+      line: 1920,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: 'node:net',
+      function: 'Server.listen',
+      line: 2008,
+      method: 'listen',
+      native: false
+    },
+    {
+      column: 24,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/express/lib/application.js',
+      function: 'Function.listen',
+      line: 635,
+      method: 'listen',
+      native: false
+    },
+    {
+      column: 7,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js',
+      function: 'module.exports',
+      line: 36,
+      method: 'exports',
+      native: false
+    }
+  ],
+  timestamp: 'Jul-19-2024 15:17:49'
+}
+{
+  error: Error: listen EADDRINUSE: address already in use :::3001
+      at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+      at listenInCluster (node:net:1920:12)
+      at Server.listen (node:net:2008:7)
+      at Function.listen (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/express/lib/application.js:635:24)
+      at module.exports (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:36:7) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3001
+  },
+  level: 'error',
+  message: 'uncaughtException: listen EADDRINUSE: address already in use :::3001\n' +
+    'Error: listen EADDRINUSE: address already in use :::3001\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n' +
+    '    at listenInCluster (node:net:1920:12)\n' +
+    '    at Server.listen (node:net:2008:7)\n' +
+    '    at Function.listen (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/express/lib/application.js:635:24)\n' +
+    '    at module.exports (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:36:7)',
+  stack: 'Error: listen EADDRINUSE: address already in use :::3001\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n' +
+    '    at listenInCluster (node:net:1920:12)\n' +
+    '    at Server.listen (node:net:2008:7)\n' +
+    '    at Function.listen (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/express/lib/application.js:635:24)\n' +
+    '    at module.exports (/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js:36:7)',
+  exception: true,
+  date: 'Fri Jul 19 2024 15:18:18 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 51956,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users',
+    execPath: '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+    version: 'v20.10.0',
+    argv: [
+      '/Users/nishantsrinet/.nvm/versions/node/v20.10.0/bin/node',
+      '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/server.js'
+    ],
+    memoryUsage: {
+      rss: 86638592,
+      heapTotal: 39075840,
+      heapUsed: 29019672,
+      external: 20640081,
+      arrayBuffers: 18328444
+    }
+  },
+  os: {
+    loadavg: [ 9.595703125, 7.4013671875, 4.44287109375 ],
+    uptime: 3208046
+  },
+  trace: [
+    {
+      column: 16,
+      file: 'node:net',
+      function: 'Server.setupListenHandle [as _listen2]',
+      line: 1872,
+      method: 'setupListenHandle [as _listen2]',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:net',
+      function: 'listenInCluster',
+      line: 1920,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: 'node:net',
+      function: 'Server.listen',
+      line: 2008,
+      method: 'listen',
+      native: false
+    },
+    {
+      column: 24,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/node_modules/express/lib/application.js',
+      function: 'Function.listen',
+      line: 635,
+      method: 'listen',
+      native: false
+    },
+    {
+      column: 7,
+      file: '/Users/nishantsrinet/Desktop/Projects/Backend/BenchmarkingBE/users/src/startup/index.startup.js',
+      function: 'module.exports',
+      line: 36,
+      method: 'exports',
+      native: false
+    }
+  ],
+  timestamp: 'Jul-19-2024 15:18:18'
+}

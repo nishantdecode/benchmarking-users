@@ -1,0 +1,1046 @@
+2024-02-27 15:48:17:4817 [31merror[39m: [31mAll fields Mandatory![39m
+2024-02-27 15:54:35:5435 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-02-27 15:54:41:5441 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-02-27 15:56:31:5631 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-02-27 15:57:50:5750 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-02-27 15:58:20:5820 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-02-27 15:59:05:595 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-02-27 17:13:31:1331 [31merror[39m: [31mCannot read properties of undefined (reading '_id')[39m
+2024-02-27 17:13:31:1331 [31merror[39m: [31mCannot read properties of undefined (reading '_id')[39m
+2024-02-27 17:14:45:1445 [31merror[39m: [31mCannot read properties of undefined (reading 'id')[39m
+2024-02-27 17:14:45:1445 [31merror[39m: [31mCannot read properties of undefined (reading 'id')[39m
+2024-02-27 17:28:15:2815 [31merror[39m: [31mjwt malformed[39m
+2024-02-27 17:28:15:2815 [31merror[39m: [31mjwt malformed[39m
+2024-02-27 17:29:42:2942 [31merror[39m: [31mjwt malformed[39m
+2024-02-27 17:29:42:2942 [31merror[39m: [31mjwt malformed[39m
+2024-02-27 17:30:03:303 [31merror[39m: [31mjwt malformed[39m
+2024-02-27 17:30:03:303 [31merror[39m: [31mjwt malformed[39m
+2024-02-27 17:34:04:344 [31merror[39m: [31mjwt malformed[39m
+2024-02-27 17:34:04:344 [31merror[39m: [31mjwt malformed[39m
+2024-02-27 18:21:44:2144 [31merror[39m: [31mjwt malformed[39m
+2024-02-27 18:21:44:2144 [31merror[39m: [31mjwt malformed[39m
+2024-02-27 18:23:28:2328 [31merror[39m: [31mjwt malformed[39m
+2024-02-27 18:23:28:2328 [31merror[39m: [31mjwt malformed[39m
+2024-02-27 18:23:31:2331 [31merror[39m: [31mjwt malformed[39m
+2024-02-27 18:23:31:2331 [31merror[39m: [31mjwt malformed[39m
+2024-02-27 18:24:24:2424 [31merror[39m: [31mjwt malformed[39m
+2024-02-27 18:24:24:2424 [31merror[39m: [31mjwt malformed[39m
+2024-02-27 18:25:05:255 [31merror[39m: [31mjwt malformed[39m
+2024-02-27 18:25:05:255 [31merror[39m: [31mjwt malformed[39m
+2024-02-28 04:09:47:947 [31merror[39m: [31minvalid signature[39m
+2024-02-28 04:09:47:947 [31merror[39m: [31minvalid signature[39m
+2024-02-28 04:10:01:101 [31merror[39m: [31mjwt malformed[39m
+2024-02-28 04:10:01:101 [31merror[39m: [31mjwt malformed[39m
+2024-02-28 04:12:09:129 [31merror[39m: [31mjwt expired[39m
+2024-02-28 04:12:09:129 [31merror[39m: [31mjwt expired[39m
+2024-02-28 06:33:50:3350 [31merror[39m: [31mjwt malformed[39m
+2024-02-28 06:33:50:3350 [31merror[39m: [31mjwt malformed[39m
+2024-02-28 06:46:13:4613 [31merror[39m: [31mjwt expired[39m
+2024-02-28 06:46:13:4613 [31merror[39m: [31mjwt expired[39m
+2024-02-29 19:03:56:356 [31merror[39m: [31mjwt malformed[39m
+2024-02-29 19:03:56:356 [31merror[39m: [31mjwt malformed[39m
+2024-02-29 19:04:01:41 [31merror[39m: [31mjwt malformed[39m
+2024-02-29 19:04:02:42 [31merror[39m: [31mjwt malformed[39m
+2024-02-29 19:09:13:913 [31merror[39m: [31mjwt expired[39m
+2024-02-29 19:09:13:913 [31merror[39m: [31mjwt expired[39m
+2024-02-29 19:10:53:1053 [31merror[39m: [31mjwt expired[39m
+2024-02-29 19:10:53:1053 [31merror[39m: [31mjwt expired[39m
+2024-03-01 06:20:22:2022 [31merror[39m: [31mjwt expired[39m
+2024-03-01 06:20:22:2022 [31merror[39m: [31mjwt expired[39m
+2024-03-01 06:20:37:2037 [31merror[39m: [31mjwt expired[39m
+2024-03-01 06:20:37:2037 [31merror[39m: [31mjwt expired[39m
+2024-03-01 06:22:13:2213 [31merror[39m: [31mjwt expired[39m
+2024-03-01 06:22:13:2213 [31merror[39m: [31mjwt expired[39m
+2024-03-01 06:25:07:257 [31merror[39m: [31mjwt expired[39m
+2024-03-01 06:25:07:257 [31merror[39m: [31mjwt expired[39m
+2024-03-01 12:37:38:3738 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-01 12:37:38:3738 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-01 12:38:29:3829 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-01 12:38:29:3829 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-01 12:39:00:390 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-01 12:51:26:5126 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-01 12:51:26:5126 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-01 15:30:46:3046 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:30:46:3046 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:31:08:318 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:31:08:318 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:31:43:3143 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:31:43:3143 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:33:56:3356 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:33:56:3356 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:37:07:377 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:37:07:377 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:37:55:3755 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:37:55:3755 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:39:23:3923 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:39:23:3923 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:44:17:4417 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:44:17:4417 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:44:52:4452 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:44:52:4452 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:46:08:468 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 15:46:08:468 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 16:21:36:2136 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 16:21:36:2136 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:33:34:3334 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:33:34:3334 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:33:51:3351 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:33:51:3351 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:34:10:3410 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:34:10:3410 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:34:13:3413 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:34:13:3413 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:35:11:3511 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:35:11:3511 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:36:51:3651 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:36:51:3651 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:40:22:4022 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:40:22:4022 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:40:51:4051 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:40:51:4051 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:42:15:4215 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:42:15:4215 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:42:38:4238 [31merror[39m: [31mjwt malformed[39m
+2024-03-01 18:42:38:4238 [31merror[39m: [31mjwt malformed[39m
+2024-03-02 13:49:54:4954 [31merror[39m: [31mjwt malformed[39m
+2024-03-02 13:49:54:4954 [31merror[39m: [31mjwt malformed[39m
+2024-03-02 13:49:58:4958 [31merror[39m: [31mjwt malformed[39m
+2024-03-02 13:49:58:4958 [31merror[39m: [31mjwt malformed[39m
+2024-03-02 13:51:31:5131 [31merror[39m: [31mjwt expired[39m
+2024-03-02 13:51:31:5131 [31merror[39m: [31mjwt expired[39m
+2024-03-02 13:53:46:5346 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 13:53:46:5346 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 13:55:33:5533 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 13:55:33:5533 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 13:56:04:564 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 13:56:04:564 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 13:58:34:5834 [31merror[39m: [31mToken Expired![39m
+2024-03-02 13:58:34:5834 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:07:35:735 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:07:35:735 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:08:01:81 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:08:01:81 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:08:01:81 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:08:01:81 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:08:01:81 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:08:01:81 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:08:01:81 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:08:01:81 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:08:09:89 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:08:09:89 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:08:09:89 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:08:09:89 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:08:30:830 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:08:30:830 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:08:30:830 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:08:30:830 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:08:30:830 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:08:30:830 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:08:30:830 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:08:30:830 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:09:20:920 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:09:20:920 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:09:20:920 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:09:20:920 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:09:20:920 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:09:20:920 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:09:20:920 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:09:20:920 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:10:33:1033 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:10:33:1033 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:10:33:1033 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:10:33:1033 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:10:54:1054 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:10:54:1054 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:10:54:1054 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:10:54:1054 [31merror[39m: [31mCannot read properties of undefined (reading 'methods')[39m
+2024-03-02 14:11:11:1111 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:11:11:1111 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:11:11:1111 [31merror[39m: [31mCannot read properties of undefined (reading 'decodeToken')[39m
+2024-03-02 14:11:11:1111 [31merror[39m: [31mCannot read properties of undefined (reading 'decodeToken')[39m
+2024-03-02 14:18:22:1822 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:18:22:1822 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:18:22:1822 [31merror[39m: [31mUserService.findOne is not a constructor[39m
+2024-03-02 14:18:22:1822 [31merror[39m: [31mUserService.findOne is not a constructor[39m
+2024-03-02 14:18:57:1857 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:18:57:1857 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:18:57:1857 [31merror[39m: [31mCannot read properties of undefined (reading 'refreshToken')[39m
+2024-03-02 14:18:58:1858 [31merror[39m: [31mCannot read properties of undefined (reading 'refreshToken')[39m
+2024-03-02 14:19:18:1918 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:19:18:1918 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:19:18:1918 [31merror[39m: [31mCannot read properties of undefined (reading 'refreshToken')[39m
+2024-03-02 14:19:18:1918 [31merror[39m: [31mCannot read properties of undefined (reading 'refreshToken')[39m
+2024-03-02 14:19:40:1940 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:19:40:1940 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:19:40:1940 [31merror[39m: [31mCannot read properties of undefined (reading 'schema')[39m
+2024-03-02 14:19:40:1940 [31merror[39m: [31mCannot read properties of undefined (reading 'schema')[39m
+2024-03-02 14:21:08:218 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:21:08:218 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:21:08:218 [31merror[39m: [31mCannot read properties of undefined (reading 'schema')[39m
+2024-03-02 14:21:09:219 [31merror[39m: [31mCannot read properties of undefined (reading 'schema')[39m
+2024-03-02 14:22:05:225 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:22:05:225 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:22:23:2223 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:22:23:2223 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:26:27:2627 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:26:27:2627 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:28:48:2848 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:28:48:2848 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:39:41:3941 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:39:41:3941 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:41:09:419 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:41:09:419 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:53:38:5338 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:53:38:5338 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:59:38:5938 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:59:38:5938 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:59:38:5938 [31merror[39m: [31mToken Expired![39m
+2024-03-02 14:59:38:5938 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:06:08:68 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:06:08:68 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:08:41:841 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:08:41:841 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:09:46:946 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:09:46:946 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:10:48:1048 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:10:48:1048 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:12:47:1247 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:12:47:1247 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:12:47:1247 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:12:47:1247 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:13:51:1351 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:13:51:1351 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:15:57:1557 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:15:57:1557 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:15:57:1557 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:15:57:1557 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:17:11:1711 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:17:11:1711 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:17:18:1718 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:17:18:1718 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:19:01:191 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:19:01:191 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:20:47:2047 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:20:47:2047 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:20:47:2047 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:20:47:2047 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:21:35:2135 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:21:35:2135 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:21:36:2136 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:21:36:2136 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:25:23:2523 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:25:23:2523 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:25:23:2523 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:25:23:2523 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:27:10:2710 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:27:10:2710 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:27:10:2710 [31merror[39m: [31mCannot read properties of null (reading 'email')[39m
+2024-03-02 15:27:10:2710 [31merror[39m: [31mCannot read properties of null (reading 'email')[39m
+2024-03-02 15:28:38:2838 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:28:38:2838 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:28:38:2838 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:28:38:2838 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:28:50:2850 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:28:50:2850 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:28:50:2850 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:28:50:2850 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:28:50:2850 [31merror[39m: [31mCannot read properties of null (reading 'email')[39m
+2024-03-02 15:28:50:2850 [31merror[39m: [31mCannot read properties of null (reading 'email')[39m
+2024-03-02 15:28:50:2850 [31merror[39m: [31mCannot read properties of null (reading 'email')[39m
+2024-03-02 15:28:50:2850 [31merror[39m: [31mCannot read properties of null (reading 'email')[39m
+2024-03-02 15:29:04:294 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:29:04:294 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:29:04:294 [31merror[39m: [31mCannot read properties of null (reading 'email')[39m
+2024-03-02 15:29:04:294 [31merror[39m: [31mCannot read properties of null (reading 'email')[39m
+2024-03-02 15:31:31:3131 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:31:31:3131 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:31:31:3131 [31merror[39m: [31mCannot read properties of null (reading 'email')[39m
+2024-03-02 15:31:31:3131 [31merror[39m: [31mCannot read properties of null (reading 'email')[39m
+2024-03-02 15:31:36:3136 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:31:36:3136 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:31:36:3136 [31merror[39m: [31mCannot read properties of null (reading 'email')[39m
+2024-03-02 15:31:36:3136 [31merror[39m: [31mCannot read properties of null (reading 'email')[39m
+2024-03-02 15:31:45:3145 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:31:45:3145 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:31:45:3145 [31merror[39m: [31mCannot read properties of null (reading 'email')[39m
+2024-03-02 15:31:45:3145 [31merror[39m: [31mCannot read properties of null (reading 'email')[39m
+2024-03-02 15:31:45:3145 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:31:45:3145 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:31:45:3145 [31merror[39m: [31mCannot read properties of null (reading 'email')[39m
+2024-03-02 15:31:45:3145 [31merror[39m: [31mCannot read properties of null (reading 'email')[39m
+2024-03-02 15:33:17:3317 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:33:17:3317 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:33:17:3317 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:33:17:3317 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:34:42:3442 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:34:42:3442 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:34:43:3443 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:34:43:3443 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:34:43:3443 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:34:43:3443 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:34:43:3443 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:34:43:3443 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:36:15:3615 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:36:15:3615 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:36:16:3616 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:36:16:3616 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:37:38:3738 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:37:38:3738 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:37:38:3738 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:37:38:3738 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:37:38:3738 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:37:38:3738 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:37:38:3738 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:37:38:3738 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:40:39:4039 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:40:39:4039 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:40:39:4039 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:40:39:4039 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:41:10:4110 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:41:10:4110 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:41:10:4110 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 15:41:11:4111 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 15:42:52:4252 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:42:52:4252 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:42:52:4252 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 15:42:52:4252 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 15:42:52:4252 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:42:52:4252 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:42:52:4252 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 15:42:52:4252 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 15:46:10:4610 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:46:10:4610 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:46:10:4610 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 15:46:10:4610 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 15:46:45:4645 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:46:45:4645 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:46:45:4645 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 15:46:45:4645 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 15:46:45:4645 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:46:45:4645 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:46:45:4645 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 15:46:45:4645 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 15:51:23:5123 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:51:23:5123 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:51:23:5123 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 15:51:23:5123 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 15:55:08:558 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:55:08:558 [31merror[39m: [31mToken Expired![39m
+2024-03-02 15:55:08:558 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 15:55:08:558 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 15:59:44:5944 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-02 15:59:51:5951 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-02 16:00:01:01 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-02 16:02:54:254 [31merror[39m: [31mToken Expired![39m
+2024-03-02 16:02:54:254 [31merror[39m: [31mToken Expired![39m
+2024-03-02 16:02:54:254 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 16:02:54:254 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 16:05:25:525 [31merror[39m: [31mToken Expired![39m
+2024-03-02 16:05:25:525 [31merror[39m: [31mToken Expired![39m
+2024-03-02 16:05:25:525 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 16:05:25:525 [31merror[39m: [31mRefresh Token Expired![39m
+2024-03-02 16:13:59:1359 [31merror[39m: [31mUser validation failed: name.first: Path `name.first` is required.[39m
+2024-03-02 16:22:42:2242 [31merror[39m: [31mUnauthorized: Invalid Token[39m
+2024-03-02 16:22:42:2242 [31merror[39m: [31mCannot read properties of null (reading 'refreshToken')[39m
+2024-03-02 16:22:42:2242 [31merror[39m: [31mUnauthorized: Invalid Token[39m
+2024-03-02 16:22:42:2242 [31merror[39m: [31mCannot read properties of null (reading 'refreshToken')[39m
+2024-03-02 16:33:58:3358 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-02 16:34:04:344 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-02 16:34:04:344 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-02 16:34:08:348 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-02 16:34:23:3423 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-02 16:34:24:3424 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-02 16:34:53:3453 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-02 16:34:54:3454 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-02 17:26:30:2630 [31merror[39m: [31mInvalid Password![39m
+2024-03-02 17:29:16:2916 [31merror[39m: [31mInvalid Password![39m
+2024-03-02 17:30:36:3036 [31merror[39m: [31mInvalid Password![39m
+2024-03-02 17:31:48:3148 [31merror[39m: [31mInvalid Password![39m
+2024-03-02 18:05:28:528 [31merror[39m: [31mInvalid Otp![39m
+2024-03-02 18:12:42:1242 [31merror[39m: [31mCannot read properties of undefined (reading 'split')[39m
+2024-03-02 18:14:17:1417 [31merror[39m: [31mCannot read properties of undefined (reading 'split')[39m
+2024-03-02 18:17:27:1727 [31merror[39m: [31mCannot read properties of undefined (reading 'split')[39m
+2024-03-02 18:18:00:180 [31merror[39m: [31mCannot read properties of undefined (reading '_id')[39m
+2024-03-02 20:40:56:4056 [31merror[39m: [31mAll fields Mandatory![39m
+2024-03-02 21:52:00:520 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 21:52:14:5214 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 21:52:14:5214 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 21:52:51:5251 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 21:52:51:5251 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 21:53:04:534 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 21:59:43:5943 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 21:59:44:5944 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 22:00:18:018 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 22:00:19:019 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 22:01:25:125 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 22:01:26:126 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 22:01:35:135 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 22:03:40:340 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 22:05:18:518 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 22:05:18:518 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 22:39:53:3953 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 22:40:11:4011 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 22:41:16:4116 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 22:41:25:4125 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 22:44:07:447 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 22:45:55:4555 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 22:52:07:527 [31merror[39m: [31mCannot read properties of undefined (reading 'split')[39m
+2024-03-02 22:53:06:536 [31merror[39m: [31mToken Expired![39m
+2024-03-02 22:53:19:5319 [31merror[39m: [31mToken Expired![39m
+2024-03-02 22:53:41:5341 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 22:55:18:5518 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 22:55:51:5551 [31merror[39m: [31mCast to ObjectId failed for value "admin" (type string) at path "_id" for model "User"[39m
+2024-03-02 23:46:27:4627 [31merror[39m: [31mCannot read properties of undefined (reading 'split')[39m
+2024-03-03 00:19:32:1932 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:19:32:1932 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:19:46:1946 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:19:47:1947 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:20:26:2026 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:20:26:2026 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:20:33:2033 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:20:33:2033 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:22:42:2242 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:22:42:2242 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:22:48:2248 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:22:48:2248 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:24:14:2414 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:24:14:2414 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:24:28:2428 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:24:28:2428 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:24:37:2437 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:24:37:2437 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:25:06:256 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:25:06:256 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:25:45:2545 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:25:45:2545 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:27:13:2713 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:27:13:2713 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:28:33:2833 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:28:33:2833 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:28:33:2833 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:28:33:2833 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:28:43:2843 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:28:43:2843 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:28:43:2843 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:28:43:2843 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:28:59:2859 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:28:59:2859 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:28:59:2859 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:28:59:2859 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:30:35:3035 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:30:35:3035 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:30:35:3035 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:30:35:3035 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:31:06:316 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:31:06:316 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:31:06:316 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:31:06:316 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:31:35:3135 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:31:35:3135 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:31:35:3135 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:31:35:3135 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:32:38:3238 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:32:38:3238 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:32:38:3238 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:32:38:3238 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:33:29:3329 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:33:29:3329 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:33:29:3329 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:33:29:3329 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:34:49:3449 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:34:49:3449 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:34:50:3450 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:34:50:3450 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:35:01:351 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:35:01:351 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:35:01:351 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:35:01:351 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:35:10:3510 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:35:10:3510 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:35:10:3510 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:35:11:3511 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:35:50:3550 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:35:50:3550 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:35:50:3550 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:35:51:3551 [31merror[39m: [31mUser not found[39m
+2024-03-03 00:36:46:3646 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-03 00:36:46:3646 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-03 00:36:46:3646 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-03 00:36:46:3646 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-03 00:36:46:3646 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-03 00:36:46:3646 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-03 00:36:56:3656 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-03 00:36:56:3656 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-03 00:37:22:3722 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-03 00:37:42:3742 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-03 00:38:39:3839 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-03 00:39:30:3930 [31merror[39m: [31mUnauthorized![39m
+2024-03-03 00:39:30:3930 [31merror[39m: [31mUnauthorized![39m
+2024-03-03 00:39:31:3931 [31merror[39m: [31mUnauthorized![39m
+2024-03-03 00:39:31:3931 [31merror[39m: [31mUnauthorized![39m
+2024-03-03 01:48:11:4811 [31merror[39m: [31muser.update is not a function[39m
+2024-03-03 03:48:45:4845 [31merror[39m: [31mCannot read properties of undefined (reading 'split')[39m
+2024-03-03 04:09:27:927 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-03 04:09:27:927 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-03 04:13:50:1350 [31merror[39m: [31mClass constructor ObjectId cannot be invoked without 'new'[39m
+2024-03-03 04:13:51:1351 [31merror[39m: [31mClass constructor ObjectId cannot be invoked without 'new'[39m
+2024-03-03 04:20:26:2026 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:26:2026 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:26:2026 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:26:2026 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:26:2026 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:26:2026 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:26:2026 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:26:2026 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:26:2026 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:26:2026 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:26:2026 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:26:2026 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:26:2026 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:27:2027 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:27:2027 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:27:2027 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:27:2027 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:27:2027 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:27:2027 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:27:2027 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:27:2027 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:27:2027 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:27:2027 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:27:2027 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:27:2027 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:27:2027 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:20:33:2033 [31merror[39m: [31mToken Expired![39m
+2024-03-03 04:30:20:3020 [31merror[39m: [31mUser not found[39m
+2024-03-03 04:30:20:3020 [31merror[39m: [31mUser not found[39m
+2024-03-03 04:39:07:397 [31merror[39m: [31mAll fields Mandatory![39m
+2024-03-03 04:40:16:4016 [31merror[39m: [31mAll fields Mandatory![39m
+2024-03-03 04:41:18:4118 [31merror[39m: [31mAll fields Mandatory![39m
+2024-03-03 04:42:41:4241 [31merror[39m: [31mfirstName is not defined[39m
+2024-03-03 04:42:59:4259 [31merror[39m: [31mfirstName is not defined[39m
+2024-03-03 04:51:49:5149 [31merror[39m: [31mArgument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer[39m
+2024-03-03 04:51:49:5149 [31merror[39m: [31mArgument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer[39m
+2024-03-03 04:59:41:5941 [31merror[39m: [31mArgument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer[39m
+2024-03-03 04:59:41:5941 [31merror[39m: [31mArgument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer[39m
+2024-03-03 15:17:09:179 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-03 15:17:09:179 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-03 15:17:14:1714 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-03 15:17:14:1714 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-03 15:17:23:1723 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-03 15:17:23:1723 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-03 15:17:47:1747 [31merror[39m: [31mInvalid Password![39m
+2024-03-03 15:18:18:1818 [31merror[39m: [31mInvalid Password![39m
+2024-03-03 16:32:22:3222 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 16:32:22:3222 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 16:32:52:3252 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 16:32:52:3252 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 16:34:34:3434 [31merror[39m: [31mInvalid Password![39m
+2024-03-03 16:34:39:3439 [31merror[39m: [31mInvalid Password![39m
+2024-03-03 16:34:47:3447 [31merror[39m: [31mInvalid Password![39m
+2024-03-03 20:46:59:4659 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 20:46:59:4659 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 20:47:07:477 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 20:47:07:477 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 20:47:37:4737 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 20:47:37:4737 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:39:07:397 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:39:07:397 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:39:10:3910 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:39:10:3910 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:39:17:3917 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:39:17:3917 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:39:17:3917 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:39:22:3922 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:39:22:3922 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:39:23:3923 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:39:23:3923 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:39:34:3934 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:39:34:3934 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:39:42:3942 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:39:42:3942 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:39:49:3949 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:39:49:3949 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:40:19:4019 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:40:19:4019 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:40:50:4050 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:40:50:4050 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:41:01:411 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:41:01:411 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:41:09:419 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:41:09:419 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:41:19:4119 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:41:19:4119 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:41:30:4130 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:41:30:4130 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:42:00:420 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:42:00:420 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:42:36:4236 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:42:36:4236 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:42:50:4250 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:43:06:436 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:43:06:436 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-03 22:44:02:442 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-04 02:23:03:233 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:23:03:233 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:23:08:238 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:23:08:238 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:23:29:2329 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:23:29:2329 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:24:17:2417 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:24:17:2417 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:25:23:2523 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:25:23:2523 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:25:42:2542 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:25:42:2542 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:25:43:2543 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:25:43:2543 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:25:48:2548 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:25:48:2548 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:26:09:269 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:26:09:269 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:26:17:2617 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:26:17:2617 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:26:30:2630 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:26:31:2631 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:27:36:2736 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:27:36:2736 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-04 02:29:12:2912 [31merror[39m: [31muserFound is not defined[39m
+2024-03-04 02:29:13:2913 [31merror[39m: [31muserFound is not defined[39m
+2024-03-04 10:54:33:5433 [31merror[39m: [31mUnauthorized![39m
+2024-03-04 10:54:34:5434 [31merror[39m: [31mUnauthorized![39m
+2024-03-04 10:54:40:5440 [31merror[39m: [31mUnauthorized![39m
+2024-03-04 10:55:24:5524 [31merror[39m: [31mUnauthorized![39m
+2024-03-04 12:40:09:409 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-04 12:40:09:409 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-04 12:40:39:4039 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-04 12:40:39:4039 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-04 12:41:14:4114 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-04 12:41:14:4114 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-04 12:41:44:4144 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-04 12:41:44:4144 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-04 21:57:14:5714 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:14:5714 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:21:5721 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:21:5721 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:21:5721 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:21:5721 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:21:5721 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:21:5721 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:21:5721 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:21:5721 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:21:5721 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:22:5722 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:22:5722 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:22:5722 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:22:5722 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:22:5722 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:22:5722 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:22:5722 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:22:5722 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:23:5723 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:23:5723 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:23:5723 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:23:5723 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:23:5723 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:23:5723 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:23:5723 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:23:5723 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:23:5723 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:23:5723 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:23:5723 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:23:5723 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:23:5723 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:23:5723 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:23:5723 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:23:5723 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:24:5724 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:24:5724 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:24:5724 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:24:5724 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:24:5724 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:24:5724 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:24:5724 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:24:5724 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:24:5724 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:24:5724 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:24:5724 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:24:5724 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:25:5725 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:25:5725 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:25:5725 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:25:5725 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:25:5725 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:25:5725 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:25:5725 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:25:5725 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:26:5726 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:26:5726 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:26:5726 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:26:5726 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:26:5726 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:26:5726 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:26:5726 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:26:5726 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:26:5726 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:26:5726 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:26:5726 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:26:5726 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:26:5726 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:27:5727 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:27:5727 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:27:5727 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:27:5727 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:27:5727 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:27:5727 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:27:5727 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:27:5727 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:27:5727 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:27:5727 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:27:5727 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:27:5727 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:27:5727 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:27:5727 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:27:5727 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:28:5728 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:28:5728 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:28:5728 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:28:5728 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:28:5728 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:28:5728 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:28:5728 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:28:5728 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:28:5728 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:29:5729 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:29:5729 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:29:5729 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:29:5729 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:29:5729 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:29:5729 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:29:5729 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:29:5729 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:29:5729 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:29:5729 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:29:5729 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:29:5729 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:29:5729 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:29:5729 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:29:5729 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:30:5730 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:30:5730 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:30:5730 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:30:5730 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:30:5730 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:30:5730 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:30:5730 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:30:5730 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:30:5730 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:30:5730 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:30:5730 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:30:5730 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:30:5730 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:31:5731 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:31:5731 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:31:5731 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:31:5731 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:31:5731 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:31:5731 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:31:5731 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:31:5731 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:31:5731 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:31:5731 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:31:5731 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:31:5731 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:31:5731 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:32:5732 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:32:5732 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:32:5732 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:32:5732 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:32:5732 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:32:5732 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:32:5732 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:32:5732 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:32:5732 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:32:5732 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:32:5732 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:32:5732 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:33:5733 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:33:5733 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:33:5733 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:33:5733 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:33:5733 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:33:5733 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:33:5733 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:33:5733 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:33:5733 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:33:5733 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:33:5733 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:33:5733 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:33:5733 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:33:5733 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:34:5734 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:34:5734 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:34:5734 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:34:5734 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:34:5734 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:34:5734 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:34:5734 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:34:5734 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:34:5734 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:34:5734 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:34:5734 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:34:5734 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:34:5734 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:35:5735 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:35:5735 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:35:5735 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:35:5735 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:35:5735 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:35:5735 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:35:5735 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:35:5735 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:35:5735 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:35:5735 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:35:5735 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:35:5735 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:35:5735 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:36:5736 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:36:5736 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:36:5736 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:36:5736 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:36:5736 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:36:5736 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:36:5736 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:36:5736 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:36:5736 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:36:5736 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:36:5736 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:36:5736 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:36:5736 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:36:5736 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:37:5737 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:37:5737 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:37:5737 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:37:5737 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:37:5737 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:37:5737 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:37:5737 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:37:5737 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:37:5737 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:37:5737 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:37:5737 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:37:5737 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:37:5737 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:37:5737 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:37:5737 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:38:5738 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:38:5738 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:38:5738 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:38:5738 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:38:5738 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:38:5738 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:57:38:5738 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:57:38:5738 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-04 21:58:52:5852 [31merror[39m: [31mToken Expired![39m
+2024-03-04 21:58:52:5852 [31merror[39m: [31mInvalid refresh token![39m
+2024-03-05 11:51:27:5127 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-05 14:19:46:1946 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-05 18:28:29:2829 [31merror[39m: [31mPlan executor error during findAndModify :: caused by :: E11000 duplicate key error collection: users.users index: email_1 dup key: { email: "user2@gmail.com" }[39m
+2024-03-05 18:29:31:2931 [31merror[39m: [31mPlan executor error during findAndModify :: caused by :: E11000 duplicate key error collection: users.users index: email_1 dup key: { email: "user2@gmail.com" }[39m
+2024-03-05 19:18:43:1843 [31merror[39m: [31mPlan executor error during findAndModify :: caused by :: E11000 duplicate key error collection: users.users index: email_1 dup key: { email: "user2@gmail.com" }[39m
+2024-03-06 15:55:10:5510 [31merror[39m: [31mToken Expired![39m
+2024-03-09 14:14:37:1437 [31merror[39m: [31mToken Expired![39m
+2024-03-09 14:14:47:1447 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-09 14:14:48:1448 [31merror[39m: [31mToken Expired![39m
+2024-03-09 14:14:58:1458 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-09 14:15:19:1519 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-09 14:15:44:1544 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-09 14:15:55:1555 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-09 18:24:41:2441 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-09 18:25:11:2511 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-11 16:16:37:1637 [31merror[39m: [31mToken Expired![39m
+2024-03-12 20:19:58:1958 [31merror[39m: [31mToken Expired![39m
+2024-03-13 01:15:57:1557 [31merror[39m: [31mToken Expired![39m
+2024-03-14 02:13:05:135 [31merror[39m: [31mToken Expired![39m
+2024-03-15 02:26:46:2646 [31merror[39m: [31mToken Expired![39m
+2024-03-16 13:34:58:3458 [31merror[39m: [31mToken Expired![39m
+2024-03-16 13:34:58:3458 [31merror[39m: [31mToken Expired![39m
+2024-03-18 11:38:07:387 [31merror[39m: [31mToken Expired![39m
+2024-03-18 11:38:07:387 [31merror[39m: [31mToken Expired![39m
+2024-03-18 11:38:15:3815 [31merror[39m: [31mToken Expired![39m
+2024-03-18 11:38:15:3815 [31merror[39m: [31mToken Expired![39m
+2024-03-18 11:38:17:3817 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-18 11:38:17:3817 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-18 11:38:25:3825 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-18 11:38:25:3825 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-18 11:38:44:3844 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-18 11:40:08:408 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-18 11:41:30:4130 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-03-23 18:57:15:5715 [31merror[39m: [31mToken Expired![39m
+2024-03-23 18:57:15:5715 [31merror[39m: [31mToken Expired![39m
+2024-03-26 03:32:04:324 [31merror[39m: [31mToken Expired![39m
+2024-03-26 03:32:04:324 [31merror[39m: [31mToken Expired![39m
+2024-03-26 07:41:27:4127 [31merror[39m: [31mconnection 5 to 3.6.254.147:27017 timed out[39m
+2024-03-26 20:39:50:3950 [31merror[39m: [31mInvalid Credentials![39m
+2024-03-28 00:37:40:3740 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-02.warm1xa.mongodb.net[39m
+2024-03-28 00:37:40:3740 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-02.warm1xa.mongodb.net[39m
+2024-03-28 11:35:39:3539 [31merror[39m: [31mToken Expired![39m
+2024-03-28 15:25:14:2514 [31merror[39m: [31mAll fields Mandatory![39m
+2024-03-28 15:25:34:2534 [31merror[39m: [31mOrganisation already exists![39m
+2024-03-28 15:27:18:2718 [31merror[39m: [31mOrganisation already exists![39m
+2024-03-28 15:27:37:2737 [31merror[39m: [31mOrganisation already exists![39m
+2024-03-28 15:32:07:327 [31merror[39m: [31mUser not found[39m
+2024-03-28 15:32:07:327 [31merror[39m: [31mUser not found[39m
+2024-03-28 15:33:00:330 [31merror[39m: [31mToken Expired![39m
+2024-03-28 15:33:00:330 [31merror[39m: [31mToken Expired![39m
+2024-03-28 15:35:49:3549 [31merror[39m: [31mToken Expired![39m
+2024-03-28 15:35:49:3549 [31merror[39m: [31mToken Expired![39m
+2024-03-28 15:35:59:3559 [31merror[39m: [31mToken Expired![39m
+2024-03-28 15:35:59:3559 [31merror[39m: [31mToken Expired![39m
+2024-03-28 15:36:24:3624 [31merror[39m: [31mToken Expired![39m
+2024-03-28 15:36:24:3624 [31merror[39m: [31mToken Expired![39m
+2024-03-28 15:37:37:3737 [31merror[39m: [31mToken Expired![39m
+2024-03-28 15:37:37:3737 [31merror[39m: [31mToken Expired![39m
+2024-03-28 15:37:41:3741 [31merror[39m: [31mToken Expired![39m
+2024-03-28 15:37:41:3741 [31merror[39m: [31mToken Expired![39m
+2024-03-28 16:44:54:4454 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-28 16:45:03:453 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-28 16:45:03:453 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-28 16:59:45:5945 [31merror[39m: [31mCannot destructure property 'name' of 'req.body.credentials' as it is undefined.[39m
+2024-03-28 17:00:26:026 [31merror[39m: [31mOrganisation already exists![39m
+2024-03-28 18:14:24:1424 [31merror[39m: [31mInvalid Credentials![39m
+2024-03-28 18:14:31:1431 [31merror[39m: [31mInvalid Credentials![39m
+2024-03-28 21:18:41:1841 [31merror[39m: [31mCannot read properties of null (reading 'name')[39m
+2024-03-28 21:18:42:1842 [31merror[39m: [31mCannot read properties of null (reading 'name')[39m
+2024-03-28 21:19:01:191 [31merror[39m: [31mCannot read properties of null (reading 'name')[39m
+2024-03-28 21:19:01:191 [31merror[39m: [31mCannot read properties of null (reading 'name')[39m
+2024-03-28 21:19:09:199 [31merror[39m: [31mCannot read properties of null (reading 'name')[39m
+2024-03-28 21:19:09:199 [31merror[39m: [31mCannot read properties of null (reading 'name')[39m
+2024-03-28 21:19:14:1914 [31merror[39m: [31mCannot read properties of null (reading 'name')[39m
+2024-03-28 21:38:14:3814 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-28 21:38:14:3814 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-28 21:38:19:3819 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-28 21:38:19:3819 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-28 21:38:31:3831 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-28 21:38:31:3831 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-28 21:38:36:3836 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-28 21:38:36:3836 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-28 21:39:06:396 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-28 21:39:06:396 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-00.warm1xa.mongodb.net[39m
+2024-03-28 21:44:20:4420 [31merror[39m: [31mCannot read properties of undefined (reading 'name')[39m
+2024-03-28 21:44:21:4421 [31merror[39m: [31mCannot read properties of undefined (reading 'name')[39m
+2024-03-28 21:44:40:4440 [31merror[39m: [31mCannot read properties of undefined (reading 'name')[39m
+2024-03-28 21:44:40:4440 [31merror[39m: [31mCannot read properties of undefined (reading 'name')[39m
+2024-03-28 21:44:57:4457 [31merror[39m: [31mCannot read properties of undefined (reading 'name')[39m
+2024-03-28 21:44:57:4457 [31merror[39m: [31mCannot read properties of undefined (reading 'name')[39m
+2024-03-28 21:45:44:4544 [31merror[39m: [31mCannot read properties of undefined (reading 'name')[39m
+2024-03-28 21:45:45:4545 [31merror[39m: [31mCannot read properties of undefined (reading 'name')[39m
+2024-03-28 21:46:02:462 [31merror[39m: [31mCannot read properties of undefined (reading 'name')[39m
+2024-03-28 21:46:02:462 [31merror[39m: [31mCannot read properties of undefined (reading 'name')[39m
+2024-03-28 21:46:12:4612 [31merror[39m: [31mCannot read properties of undefined (reading 'name')[39m
+2024-03-28 21:46:12:4612 [31merror[39m: [31mCannot read properties of undefined (reading 'name')[39m
+2024-03-28 21:46:57:4657 [31merror[39m: [31mUnauthorized![39m
+2024-03-28 21:46:57:4657 [31merror[39m: [31mUnauthorized![39m
+2024-03-28 21:47:03:473 [31merror[39m: [31mUnauthorized![39m
+2024-03-28 21:47:03:473 [31merror[39m: [31mUnauthorized![39m
+2024-03-28 21:47:12:4712 [31merror[39m: [31mUnauthorized![39m
+2024-03-28 21:47:12:4712 [31merror[39m: [31mUnauthorized![39m
+2024-03-28 21:49:01:491 [31merror[39m: [31mUnauthorized![39m
+2024-03-28 21:49:59:4959 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-28 21:49:59:4959 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-28 21:50:07:507 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-28 21:50:07:507 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-28 21:50:47:5047 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-28 21:51:31:5131 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-28 21:51:32:5132 [31merror[39m: [31mCannot read properties of undefined (reading 'toString')[39m
+2024-03-28 23:37:48:3748 [31merror[39m: [31muser is not defined[39m
+2024-03-28 23:37:48:3748 [31merror[39m: [31muser is not defined[39m
+2024-03-28 23:37:48:3748 [31merror[39m: [31morganisation is not defined[39m
+2024-03-28 23:37:48:3748 [31merror[39m: [31morganisation is not defined[39m
+2024-03-28 23:37:59:3759 [31merror[39m: [31muser is not defined[39m
+2024-03-28 23:37:59:3759 [31merror[39m: [31muser is not defined[39m
+2024-03-28 23:37:59:3759 [31merror[39m: [31morganisation is not defined[39m
+2024-03-28 23:37:59:3759 [31merror[39m: [31morganisation is not defined[39m
+2024-03-28 23:42:00:420 [31merror[39m: [31muser is not defined[39m
+2024-03-28 23:42:00:420 [31merror[39m: [31muser is not defined[39m
+2024-03-28 23:42:52:4252 [31merror[39m: [31muser is not defined[39m
+2024-03-28 23:42:52:4252 [31merror[39m: [31muser is not defined[39m
+2024-03-28 23:46:44:4644 [31merror[39m: [31morganisationId is not defined[39m
+2024-04-02 12:39:08:398 [31merror[39m: [31mCannot read properties of undefined (reading 'first')[39m
+2024-04-03 16:24:17:2417 [31merror[39m: [31mInvalid Credentials![39m
+2024-04-03 16:30:13:3013 [31merror[39m: [31mInvalid Credentials![39m
+2024-04-03 16:30:58:3058 [31merror[39m: [31mInvalid Credentials![39m
+2024-04-08 19:41:25:4125 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-04-25 18:43:23:4323 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-04-25 18:43:47:4347 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-04-25 18:44:05:445 [31merror[39m: [31mInvalid Credentials![39m
+2024-04-26 11:13:13:1313 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-04-26 11:13:41:1341 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-04-26 11:13:53:1353 [31merror[39m: [31mOperation `users.findOne()` buffering timed out after 10000ms[39m
+2024-05-09 09:35:05:355 [31merror[39m: [31mToken Expired![39m
+2024-05-09 09:35:05:355 [31merror[39m: [31mToken Expired![39m
+2024-05-13 13:22:16:2216 [31merror[39m: [31mToken Expired![39m
+2024-05-13 13:22:16:2216 [31merror[39m: [31mToken Expired![39m
+2024-05-15 07:28:21:2821 [31merror[39m: [31mToken Expired![39m
+2024-05-15 07:28:21:2821 [31merror[39m: [31mToken Expired![39m
+2024-05-22 13:12:22:1222 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-02.warm1xa.mongodb.net[39m
+2024-05-22 13:12:22:1222 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-02.warm1xa.mongodb.net[39m
+2024-05-22 13:12:52:1252 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-02.warm1xa.mongodb.net[39m
+2024-05-22 13:12:52:1252 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-02.warm1xa.mongodb.net[39m
+2024-05-22 13:13:35:1335 [31merror[39m: [31mgetaddrinfo ENOTFOUND ac-wbsuj7s-shard-00-02.warm1xa.mongodb.net[39m
+2024-05-23 13:20:27:2027 [31merror[39m: [31mToken Expired![39m
+2024-05-23 13:20:27:2027 [31merror[39m: [31mToken Expired![39m
+2024-07-18 08:52:50:5250 [31merror[39m: [31mToken Expired![39m
+2024-07-18 08:52:50:5250 [31merror[39m: [31mToken Expired![39m
+2024-07-18 08:52:51:5251 [31merror[39m: [31mCannot read properties of null (reading 'refreshToken')[39m
+2024-07-18 08:52:51:5251 [31merror[39m: [31mCannot read properties of null (reading 'refreshToken')[39m
